@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "virtual-signer-319900",
+  "private_key_id": "7022eb9969cdb8f37c0745166cdf9afd9abf21ff",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDThevtkIrYntEs\nNwv4tVQfuwOhVML7MVcFY2KY1iwjNvcnn/pcVJSDj+U8k3qiJlwFstRW6RN7QnNW\n3xAN9SBg9f+1PvvFOL3xKQzYF6/QvyQ1ov+JpNjuidG5KJewl0h29sKLcuwmM8kQ\noTFRSP7PjXD9nK4xqf1PkFdTiSJcom5PLiLcSMl7WkZugMjdp0V9xYqtLR8Ova7W\nibbmc1f/Rjn2+QCQJ8JHPgcmJ4Q7o4z+5tDUKp77ixFLbfVWFxWkygcsW10tc8zQ\n8T3tPQ/4RPo7cywTIn2xSZec54FbXt6MAHei6DIaB//l5N9lcTsbU/ZTlrRYTVfZ\nZrYopfvHAgMBAAECggEAGQFedC2ftF8GBE+XmzW4da3SjopqKG7bRjhLCh1bh2gy\njJ0laC/ZhLoIlAItP6kAPO44mvOfyXUAFJd3GudNBhleusrw0Y5VKgK70XnvX2KR\nQcP8qIVz3bMuN1DcqdQgjWu7cOfLkfKSROSBY4YZFWk3n8ubbiSV3QeHw0jVZpTY\nHvk1NTO3WQl5MUNs0ryX9EgQJzg261i2sKpx3xvlCf7yVLJmf7iNFqZbRXQJQWuz\nuiUKzViiXPl42fWHsDbm3AozkGuUTHyaJrNkyCx1n2r3YYqWKFA77H3SgND5RklC\nKNsXqPpQBoQgaeL5exc4xJmr074bdgRTSSkI9IEOcQKBgQDxDOllclBRN2QeVsSu\nJnJxPJwT3eMa9zuUHwJFvOUv2MH/Co/uImdfof14oydRB/OElXn4LwR7cabT9R6d\nKpP+UFC2/nOFFX3M0735JJXgnzxeSIYm6xDgbFYo4Dnm1AZmGhlLqR9SNBsyT2qW\nX+16jia9MvOfL29oYKM7S2A9MQKBgQDgpDaf5KDfEfT+FlwP8DVJELysJe6ZIUBh\ne3gXpbSMPbaPbQ4uVFcAUdZPTpFqrrD4Pgwl3r6w6L8nmOD56C8kpfBt8mx0Ymjv\naHTCpF0s8JDE58Zi60o5vJMc1eg8O22rWAFsgZeKmn/hIds8z139IAE+1IqXU/64\ndKwU7PeqdwKBgFEyhDxD8YIqInOFzuLK2KoEPJ8Ek0e2GD+g4mcTZjBj15VNvYX9\n2MyCCJvmeYv2HbV/lIJhdCUQ951WaGWQviFgdI/vzoH551Jj0Q5noIT1nqQz0dyy\nOhEe7Tb/sQFsUmt6RyMRaReLrc2YqtLUpW4vDCWXUDFDDUgfpVyH23dBAoGAIOHI\noST9K0ncm6i4NxkJI7XQeD5hK4cDfoFtNcDqqbCK3XmwHrX3ujNAdIFipcQGYX/r\nlUuCjDC1cl1daRdEd0/W3rEikPKqu4iFtswKW36nIjtu/aHFTqg8vHbPNKnaRr9u\nDez2OrKcz15+UetkrZ2WsRS5aKdB3MwvOCzrn8cCgYBugspnbe/cmw3RuksF3zHH\nGrKQqYGWvGxxn8vOdU7ObzNMCyms85SGf65M+Ml3sGkqE/pPUf92aQ79uIbGPqZw\nvdBnTAKjKixc8Xjv9APhLNYyOiNUlToSFVGWClnLAzzRMreVgPXatxRizbhX/ZYd\ngOkoEUbnOr/kbFWQnCJ6+w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "idc-densenet201-account@virtual-signer-319900.iam.gserviceaccount.com",
+  "client_id": "112021612241175931533",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/idc-densenet201-account%40virtual-signer-319900.iam.gserviceaccount.com"
+}
